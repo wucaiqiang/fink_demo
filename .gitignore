@@ -17,3 +17,4 @@ gradlew
 .mvn/
 BASE_PATH_ERROR_IS_UNDEFINED/
 mvnw.cmd
+checkpoints/
